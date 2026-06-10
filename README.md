@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Luis Felipe
 
-### 💻 Desenvolvedor Back-end Java em formação
+### 💻 Desenvolvedor em formação
 
 🎓 Estudante de Sistemas de Informação
 
