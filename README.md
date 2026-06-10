@@ -6,7 +6,7 @@
 
 🎓 Estudante de Sistemas de Informação
 
-🚀 Apaixonado por Tecnologia, Engenharia de Software, Dados e Inteligência Artificial
+🚀 Apaixonado por Tecnologia, Dessenvolvimento de Software, Dados e Inteligência Artificial
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Sistemas de Informação e estou construindo minha carreira com foco em desenvolvimento Back-end utilizando Java e Spring Boot.
+Sou estudante de Sistemas de Informação e estou construindo minha carreira com foco em desenvolvimento Back-end e front utilizando Java, Spring Boot, React e outras tecnologias.
 
 Tenho interesse em arquitetura de software, APIs REST, banco de dados e boas práticas de desenvolvimento. Gosto de transformar problemas em soluções através da tecnologia e estou sempre buscando novos desafios para expandir meus conhecimentos.
 
